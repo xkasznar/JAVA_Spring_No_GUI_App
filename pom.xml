@@ -15,6 +15,7 @@
     <description>OOP Zadanie 3</description>
     <properties>
         <java.version>11</java.version>
+        <start-class>sk.stuba.fei.uim.oop.assignment3.Assignment3</start-class>
     </properties>
     <dependencies>
         <dependency>
