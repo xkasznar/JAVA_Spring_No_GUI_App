@@ -1,6 +1,6 @@
 POST:
 
-<img width="635" height="570" alt="{FB6FF23E-763B-4CF0-B6CB-D6F124181025}" src="https://github.com/user-attachments/assets/a8cc51d4-ab1b-473a-8cb7-b3f45c825121" />
+<img width="573" height="563" alt="{193A0FEB-C662-4434-B4A3-58A11162CB06}" src="https://github.com/user-attachments/assets/3c329612-1776-49f2-8efe-3664dc2456f1" />
 
 GET:
 
