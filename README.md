@@ -1,5 +1,3 @@
-<img width="1338" height="937" alt="{52410DDB-9D12-46F2-9EC5-196178A7594B}" src="https://github.com/user-attachments/assets/bd1d813b-e1f1-4a7f-8d2d-1515cc81eeb9" />
-
 POST:
 <img width="911" height="718" alt="{F99C78AF-19E5-47B6-B8D3-FB5388C33776}" src="https://github.com/user-attachments/assets/ea86e9ef-5476-4303-9b59-c8bd2cc8952c" />
 
@@ -14,5 +12,7 @@ DELETE:
 <img width="914" height="717" alt="image" src="https://github.com/user-attachments/assets/eda919dc-66d2-4e12-b944-a109d3d0e2a2" />
 <img width="350" height="302" alt="image" src="https://github.com/user-attachments/assets/cddb83e4-48db-48ea-8166-329c34030557" />
 
+<img width="1338" height="937" alt="{52410DDB-9D12-46F2-9EC5-196178A7594B}" src="https://github.com/user-attachments/assets/bd1d813b-e1f1-4a7f-8d2d-1515cc81eeb9" />
 
-Download Java 11 and build (run) in newest Apache NetBeans. Make sure to build (run) ONLY, ONLY and ONLY with Java 11. Build proves compliance. We have also run the program to test some REST steps like POST, GET, PUT, DELETE.
+Download Java 11 and run (build) in newest Apache NetBeans. Make sure to run (build) ONLY, ONLY and ONLY with Java 11. Reason build is mentioned, is this REST setup needs to be up to tested spec.
+We have also run the program to test some REST steps like POST, GET, PUT, DELETE.
