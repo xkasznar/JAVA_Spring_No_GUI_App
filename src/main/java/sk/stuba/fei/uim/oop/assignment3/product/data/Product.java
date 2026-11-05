@@ -21,6 +21,14 @@ public class Product {
     private Long amount;
     private String unit;
     private Double price;
+    
+    public Product(){
+        this.name = "";
+        this.description = "";
+        this.amount = 0L;
+        this.unit = "";
+        this.price = 0.0;
+    }
 
     public Product(String name, String description, Long amount, String unit, Double price){
         this.name = name;
