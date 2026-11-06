@@ -20,5 +20,5 @@ Compliance tests:
 
 <img width="1338" height="937" alt="{52410DDB-9D12-46F2-9EC5-196178A7594B}" src="https://github.com/user-attachments/assets/bd1d813b-e1f1-4a7f-8d2d-1515cc81eeb9" />
 
-Download Java 11 and run (build) in newest Apache NetBeans. Make sure to run (build) ONLY, ONLY and ONLY with Java 11. Copmliance tests are performed to assure the REST setup complies with the spec.
+Download Java 11 and run (build) in newest Apache NetBeans. Make sure to run (build) ONLY, ONLY and ONLY with Java 11. Compliance tests are performed to assure the REST setup complies with the spec.
 We have also run the program to test some REST steps like POST, GET, PUT, DELETE.
